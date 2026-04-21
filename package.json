@@ -1,0 +1,21 @@
+{
+  "name": "valentines-gram-remotion",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "build": "remotion render src/index.tsx HeartfeltVideo out/video.mp4",
+    "start": "npm run studio"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^4.5.0",
+    "puppeteer": "^24.40.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "latest"
+  },
+  "devDependencies": {
+    "@remotion/cli": "^4.0.443",
+    "@types/react": "^19.2.14"
+  }
+}

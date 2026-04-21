@@ -1,0 +1,12 @@
+{
+  "assets": [
+    "https://static.wixstatic.com/media/2a944c_8989f61fc4084bf3b71c051fef0b438c~mv2.png/v1/fill/w_466,h_570,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2a944c_8989f61fc4084bf3b71c051fef0b438c~mv2.png",
+    "https://static.wixstatic.com/media/2a944c_383fae6bdc5748aab0c640629ca71cad~mv2.png/v1/fill/w_466,h_570,fp_0.51_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/2a944c_383fae6bdc5748aab0c640629ca71cad~mv2.png",
+    "https://static.wixstatic.com/media/2a944c_e7b161f8fb8a4a2e82402e6deed17a4e~mv2.png/v1/fill/w_466,h_570,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2a944c_e7b161f8fb8a4a2e82402e6deed17a4e~mv2.png"
+  ],
+  "colors": {
+    "theme": null,
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "candidate": "rgba(252, 228, 236, 0.95)"
+  }
+}

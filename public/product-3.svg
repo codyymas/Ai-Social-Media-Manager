@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#FFEDEB"/>
+      <stop offset="100%" stop-color="#FFF1F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g1)"/>
+
+  <!-- Big soft flower shapes -->
+  <g fill-opacity="0.9">
+    <circle cx="200" cy="400" r="160" fill="#FFD1DC" />
+    <circle cx="320" cy="560" r="120" fill="#FFC0CB" />
+    <circle cx="900" cy="300" r="140" fill="#FFE6F0" />
+    <circle cx="820" cy="520" r="80" fill="#FFD7E6" />
+  </g>
+
+  <!-- Heart cluster -->
+  <g transform="translate(540,1200) scale(1.2)" fill="#FF6B8A">
+    <path d="M0,-40 C-24,-80 -80,-80 -104,-40 C-128,0 -72,44 0,96 C72,44 128,0 104,-40 C80,-80 24,-80 0,-40 Z" transform="translate(-140,-40)" fill="#FF6B8A"/>
+    <path d="M0,-40 C-24,-80 -80,-80 -104,-40 C-128,0 -72,44 0,96 C72,44 128,0 104,-40 C80,-80 24,-80 0,-40 Z" transform="translate(-40,-40) scale(0.9)" fill="#FF4D6D"/>
+    <path d="M0,-40 C-24,-80 -80,-80 -104,-40 C-128,0 -72,44 0,96 C72,44 128,0 104,-40 C80,-80 24,-80 0,-40 Z" transform="translate(60,-40) scale(0.8)" fill="#FF8AA0"/>
+  </g>
+
+  <!-- Decorative leaves -->
+  <g fill="#CFF3D6" transform="translate(720,1400)">
+    <ellipse cx="0" cy="0" rx="40" ry="18" transform="rotate(-30)"/>
+    <ellipse cx="-40" cy="20" rx="28" ry="12" transform="rotate(-20)"/>
+  </g>
+
+  <!-- Center badge with CTA style text -->
+  <g transform="translate(540,900)">
+    <rect x="-280" y="-120" width="560" height="240" rx="24" fill="#FFFFFF" fill-opacity="0.9"/>
+    <text x="0" y="10" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="700" text-anchor="middle" fill="#333">Handmade with love</text>
+  <text x="0" y="60" font-family="Inter, Arial, sans-serif" font-size="28" fill="#666" text-anchor="middle">Flowers &amp; hearts for every moment</text>
+  </g>
+</svg>
